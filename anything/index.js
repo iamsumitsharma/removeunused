@@ -1,0 +1,1 @@
+export const a = () => console.log('testing my function');

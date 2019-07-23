@@ -1,0 +1,31 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "to fetch the data based on the tagd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sumit sharma",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "express": "^4.17.1",
+    "hapi": "^17.8.5",
+    "node-fetch": "^2.6.0",
+    "request": "^2.81.0",
+    "rollup": "^1.17.0",
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-commonjs": "^10.0.1",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript": "^1.0.1",
+    "shelljs": "^0.8.3",
+    "source-map-explorer": "^2.0.1",
+    "tslib": "^1.10.0",
+    "typescript": "^3.5.3",
+    "walk-sync": "^2.0.2"
+  }
+}
